@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-divide-pad",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A TailwindCSS plugin to add padding in divide-x/y elements",
   "main": "tailwindcss-divide-pad.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/jeroenwtf/tailwindcss-divide-pad#readme",
   "dependencies": {
-    "tailwindcss": "^3.4.17"
+    "tailwindcss": ">=3.0.0"
   },
   "devDependencies": {}
 }
